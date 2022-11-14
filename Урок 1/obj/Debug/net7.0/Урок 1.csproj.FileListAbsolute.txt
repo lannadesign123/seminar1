@@ -1,0 +1,15 @@
+C:\git\seminar1\Урок 1\bin\Debug\net7.0\Урок 1.exe
+C:\git\seminar1\Урок 1\bin\Debug\net7.0\Урок 1.deps.json
+C:\git\seminar1\Урок 1\bin\Debug\net7.0\Урок 1.runtimeconfig.json
+C:\git\seminar1\Урок 1\bin\Debug\net7.0\Урок 1.dll
+C:\git\seminar1\Урок 1\bin\Debug\net7.0\Урок 1.pdb
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.csproj.AssemblyReference.cache
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.AssemblyInfoInputs.cache
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.AssemblyInfo.cs
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.csproj.CoreCompileInputs.cache
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.dll
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\refint\Урок 1.dll
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.pdb
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\Урок 1.genruntimeconfig.cache
+C:\git\seminar1\Урок 1\obj\Debug\net7.0\ref\Урок 1.dll
